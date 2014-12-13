@@ -51,7 +51,7 @@ p1
 p2 <- ggplot(trend, aes(x=date, y=value, group=variable, colour=variable)) +
     geom_line(size=1.3) + 
     scale_colour_manual(values=c("dodgerblue4", "darkred")) +
-    ylim(c(0,100)) +
+    ylim(c(25,75)) +
     geom_hline(yintercept=50, size=.4) +
     theme(panel.grid.minor.x=element_blank()
           , panel.grid.major.x=element_blank()
@@ -59,11 +59,11 @@ p2 <- ggplot(trend, aes(x=date, y=value, group=variable, colour=variable)) +
           ) +
     ylab("") + xlab("") +
     ggtitle(expression(atop("Back and forth",
-        atop(italic("The likelihood of each party winning the Senate has varied throughout 2014"),""))))
+        atop(italic("The likelihood of each party winning the Senate has varied through mid-2014"),""))))
 p2
 
 ## output
-png("../../graphics-output/trend.png", width = 800, height=400)
+png("../../graphics-output/trend.png", width = 600, height=400)
 p2
 dev.off()
 
