@@ -11,10 +11,10 @@ http://www.nytimes.com/newsgraphics/2014/senate-model/
 see /graphics-output  
 
 1. Trend plot of poll results since January 1 2014
-![trend](https://raw.githubusercontent.com/pavopax/leo-senate-model/master/graphics-output/trend.png)
+![trend](https://raw.githubusercontent.com/pavopax/leo-senate-graphics/master/graphics-output/trend.png)
 
 2. predicted outcome of senate election, as a histogram
-![histogram](https://raw.githubusercontent.com/pavopax/leo-senate-model/master/graphics-output/histogram.png)
+![histogram](https://raw.githubusercontent.com/pavopax/leo-senate-graphics/master/graphics-output/histogram.png)
 
 ### Code  
 see /graphics-code
