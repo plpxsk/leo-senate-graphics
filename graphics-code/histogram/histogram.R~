@@ -1,0 +1,57 @@
+###############################################################################
+## WHAT         
+## HOW          
+## NOTES   
+## AUTHOR	Pawel Paczuski [github.com/pavopax]
+###############################################################################
+
+library(ggplot2)
+library(dplyr)
+
+## remove?
+library(ggthemes)
+
+df0 <- read.csv("../../data-publisher/public/_big_assets/histogram.tsv",
+                sep="\t")
+
+
+
+dfg <- 
+qplot(x=dem, y=chance, data = df0, geom="bar", stat="identity") +
+    coord_flip() +
+    annotate("text", y = rep(-.05, dim(df0)[1]), x = df0$dem,
+                         label = df0$chance, size=3)
+
+
+
+
+
+###############################################################################
+## scr
+
+
+## good
+
+
+
+## TRY THIS NEXT
+p1 <- qplot(x=dem, y=chance, data = df0, geom="bar", stat="identity") +
+    coord_flip() + xlim(c(40,60)) + ylim(c(0, 0.5)) + theme_wsj()
+
+
+
+
+
+## need to select chance > 0
+
+
+
+## another
+qplot(dem, chance, data = df0, geom=c("line", "point")) +
+    geom_vline(xintercept = 51) + ggtitle("Verrtical line = majority")
+
+
+p1 <- ggplot(df0, aes(x=dem, y=chance))+ geom_bar(stat="identity") +
+    coord_flip() + xlim(c(40,60)) +
+    geom_text(data=df0, aes(x=0, label=chance))
+p1

@@ -1,0 +1,257 @@
+{
+ "date": "2014-07-04T19:40:29-0400",
+"data": [
+ {
+ "dem-pct": [ 50.367 ],
+"state": [ "AK" ],
+"office": [ "ak-senate-class-ii-2014" ],
+"fips": [ "2" ],
+"nyt-rating": [      4 ] 
+},
+{
+ "dem-pct": [ 3.4725e-10 ],
+"state": [ "AL" ],
+"office": [ "al-senate-class-ii-2014" ],
+"fips": [ "1" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 52.404 ],
+"state": [ "AR" ],
+"office": [ "ar-senate-class-ii-2014" ],
+"fips": [ "5" ],
+"nyt-rating": [      4 ] 
+},
+{
+ "dem-pct": [ 72.668 ],
+"state": [ "CO" ],
+"office": [ "co-senate-class-ii-2014" ],
+"fips": [ "8" ],
+"nyt-rating": [      3 ] 
+},
+{
+ "dem-pct": [ 97.786 ],
+"state": [ "DE" ],
+"office": [ "de-senate-class-ii-2014" ],
+"fips": [ "10" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 29.009 ],
+"state": [ "GA" ],
+"office": [ "ga-senate-class-ii-2014" ],
+"fips": [ "13" ],
+"nyt-rating": [      5 ] 
+},
+{
+ "dem-pct": [ 99.693 ],
+"state": [ "HI" ],
+"office": [ "hi-senate-class-iii-2014" ],
+"fips": [ "15" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 90.923 ],
+"state": [ "IA" ],
+"office": [ "ia-senate-class-ii-2014" ],
+"fips": [ "19" ],
+"nyt-rating": [      2 ] 
+},
+{
+ "dem-pct": [ 0.02296 ],
+"state": [ "ID" ],
+"office": [ "id-senate-class-ii-2014" ],
+"fips": [ "16" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 99.276 ],
+"state": [ "IL" ],
+"office": [ "il-senate-class-ii-2014" ],
+"fips": [ "17" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 0.57503 ],
+"state": [ "KS" ],
+"office": [ "ks-senate-class-ii-2014" ],
+"fips": [ "20" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 19.982 ],
+"state": [ "KY" ],
+"office": [ "ky-senate-class-ii-2014" ],
+"fips": [ "21" ],
+"nyt-rating": [      5 ] 
+},
+{
+ "dem-pct": [ 35.928 ],
+"state": [ "LA" ],
+"office": [ "la-senate-class-ii-2014" ],
+"fips": [ "22" ],
+"nyt-rating": [      4 ] 
+},
+{
+ "dem-pct": [ 98.155 ],
+"state": [ "MA" ],
+"office": [ "ma-senate-class-ii-2014" ],
+"fips": [ "25" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 1.5149 ],
+"state": [ "ME" ],
+"office": [ "me-senate-class-ii-2014" ],
+"fips": [ "23" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 50.664 ],
+"state": [ "MI" ],
+"office": [ "mi-senate-class-ii-2014" ],
+"fips": [ "26" ],
+"nyt-rating": [      4 ] 
+},
+{
+ "dem-pct": [ 97.708 ],
+"state": [ "MN" ],
+"office": [ "mn-senate-class-ii-2014" ],
+"fips": [ "27" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 7.6848 ],
+"state": [ "MS" ],
+"office": [ "ms-senate-class-ii-2014" ],
+"fips": [ "28" ],
+"nyt-rating": [      6 ] 
+},
+{
+ "dem-pct": [ 8.0456 ],
+"state": [ "MT" ],
+"office": [ "mt-senate-class-ii-2014" ],
+"fips": [ "30" ],
+"nyt-rating": [      6 ] 
+},
+{
+ "dem-pct": [ 47.487 ],
+"state": [ "NC" ],
+"office": [ "nc-senate-class-ii-2014" ],
+"fips": [ "37" ],
+"nyt-rating": [      4 ] 
+},
+{
+ "dem-pct": [ 3.2756 ],
+"state": [ "NE" ],
+"office": [ "ne-senate-class-ii-2014" ],
+"fips": [ "31" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 94.425 ],
+"state": [ "NH" ],
+"office": [ "nh-senate-class-ii-2014" ],
+"fips": [ "33" ],
+"nyt-rating": [      2 ] 
+},
+{
+ "dem-pct": [ 99.216 ],
+"state": [ "NJ" ],
+"office": [ "nj-senate-class-ii-2014" ],
+"fips": [ "34" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 99.875 ],
+"state": [ "NM" ],
+"office": [ "nm-senate-class-ii-2014" ],
+"fips": [ "35" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 0.023596 ],
+"state": [ "OK" ],
+"office": [ "ok-senate-class-ii-2014" ],
+"fips": [ "40" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 1.3411e-06 ],
+"state": [ "OK-2" ],
+"office": [ "ok-senate-class-iii-2014" ],
+"fips": [ "40-2" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 97.823 ],
+"state": [ "OR" ],
+"office": [ "or-senate-class-ii-2014" ],
+"fips": [ "41" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 99.995 ],
+"state": [ "RI" ],
+"office": [ "ri-senate-class-ii-2014" ],
+"fips": [ "44" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 4.8609 ],
+"state": [ "SC" ],
+"office": [ "sc-senate-class-ii-2014" ],
+"fips": [ "45" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 1.9931 ],
+"state": [ "SC-2" ],
+"office": [ "sc-senate-class-iii-2014" ],
+"fips": [ "45-2" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 0.91656 ],
+"state": [ "SD" ],
+"office": [ "sd-senate-class-ii-2014" ],
+"fips": [ "46" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 1.6363 ],
+"state": [ "TN" ],
+"office": [ "tn-senate-class-ii-2014" ],
+"fips": [ "47" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 0.13163 ],
+"state": [ "TX" ],
+"office": [ "tx-senate-class-ii-2014" ],
+"fips": [ "48" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 99.959 ],
+"state": [ "VA" ],
+"office": [ "va-senate-class-ii-2014" ],
+"fips": [ "51" ],
+"nyt-rating": [      1 ] 
+},
+{
+ "dem-pct": [ 3.5706 ],
+"state": [ "WV" ],
+"office": [ "wv-senate-class-ii-2014" ],
+"fips": [ "54" ],
+"nyt-rating": [      7 ] 
+},
+{
+ "dem-pct": [ 0.0004334 ],
+"state": [ "WY" ],
+"office": [ "wy-senate-class-ii-2014" ],
+"fips": [ "56" ],
+"nyt-rating": [      7 ] 
+} 
+] 
+}
